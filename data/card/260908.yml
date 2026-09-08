@@ -5,13 +5,13 @@ about:
   head: 872cc5f
   archived: false
   latestVersion: "v0.6.1"
-  collectedAt: 2026-09-08T02:17:14Z
+  collectedAt: 2026-09-08T04:49:34Z
 timeline:
   created: 2026-01-17
   lastCommit: 2026-08-06
   lastRelease: 2026-08-06
 popularity:
-  star: 208
+  star: 209
   watcher: 2
   fork: 8
   release: 28
@@ -82,7 +82,7 @@ total:
   commit: 530
 ---
 path: /home/runner/.x-repo/github.com/boolean-maybe/tiki
-collectedAt: 2026-09-08T02:17:18Z
+collectedAt: 2026-09-08T04:49:38Z
 loc:
   Go:
     code: 70108
