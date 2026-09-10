@@ -23,11 +23,22 @@ x install tiki
 - **Latest**: `v0.6.1` (2026-08-06)
 - **Last commit**: 2026-08-06
 - **Assets in release**: 7
-- **Published**: 2026-08-06T02:46:31Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/checksums.txt) | 576 B | `other` |
+| [tiki_0.6.1_darwin_amd64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_darwin_amd64.tar.gz) | 10.9 MiB | `native/darwin/x64` |
+| [tiki_0.6.1_darwin_arm64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_darwin_arm64.tar.gz) | 10.2 MiB | `native/darwin/arm64` |
+| [tiki_0.6.1_linux_amd64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_linux_amd64.tar.gz) | 10.7 MiB | `native/linux/x64` |
+| [tiki_0.6.1_linux_arm64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_linux_arm64.tar.gz) | 9.8 MiB | `native/linux/arm64` |
+| [tiki_0.6.1_windows_amd64.zip](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_amd64.zip) | 11.0 MiB | `native/win/x64` |
+| [tiki_0.6.1_windows_arm64.zip](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_arm64.zip) | 9.9 MiB | `native/win/arm64` |
 
 ## Popularity
 
-- **Stars**: 209 · **Forks**: 8 · **Open issues**: 86 · **Contributors**: 2
+- **Stars**: 210 · **Forks**: 8 · **Open issues**: 86 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -58,8 +69,8 @@ Total: **82,402** lines of code across **493** files in the top 5 languages.
 Install metadata for tiki lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tiki` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tiki.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tiki.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:03:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:54:14Z._

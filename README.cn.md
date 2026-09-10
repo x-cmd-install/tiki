@@ -4,7 +4,7 @@
 
 Terminal Markdown-based shapeless workflow builder
 
-![tiki](https://repo.x-cmd.io/tiki.svg)
+![tiki](https://repo.x-cmd.io/tiki.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,22 @@ x install tiki
 - **最新版本**: `v0.6.1` (2026-08-06)
 - **最近提交**: 2026-08-06
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-08-06T02:46:31Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/checksums.txt) | 576 B | `other` |
+| [tiki_0.6.1_darwin_amd64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_darwin_amd64.tar.gz) | 10.9 MiB | `native/darwin/x64` |
+| [tiki_0.6.1_darwin_arm64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_darwin_arm64.tar.gz) | 10.2 MiB | `native/darwin/arm64` |
+| [tiki_0.6.1_linux_amd64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_linux_amd64.tar.gz) | 10.7 MiB | `native/linux/x64` |
+| [tiki_0.6.1_linux_arm64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_linux_arm64.tar.gz) | 9.8 MiB | `native/linux/arm64` |
+| [tiki_0.6.1_windows_amd64.zip](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_amd64.zip) | 11.0 MiB | `native/win/x64` |
+| [tiki_0.6.1_windows_arm64.zip](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_arm64.zip) | 9.9 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 209 · **Fork**: 8 · **开放 issue**: 86 · **贡献者**: 2
+- **Star**: 210 · **Fork**: 8 · **开放 issue**: 86 · **贡献者**: 2
 
 ## 累计统计
 
@@ -62,4 +73,4 @@ tiki 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:03:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:54:15Z._
