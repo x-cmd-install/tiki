@@ -1,0 +1,28 @@
+- repo: aur
+  srcname: tiki-bin
+  binname: tiki-bin
+  visiblename: tiki-bin
+  version: 0.6.1
+  origversion: 0.6.1-1
+  status: outdated
+  summary: Markdown-based git-versioned documentation and issue management
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: macports
+  srcname: www/tiki
+  binname: tiki
+  visiblename: tiki
+  version: "19.1"
+  origversion: null
+  status: newest
+  summary: php based wiki with lots of extra features
+  maintainers:
+    - nomaintainer@macports.org
+  licenses:
+    - LGPL-2.1
+  categories:
+    - www
+  vulnerable: true
