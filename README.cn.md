@@ -12,6 +12,18 @@ Terminal Markdown-based shapeless workflow builder
 x install tiki
 ```
 
+## 代码规模
+
+合计: **82,402** 行代码（覆盖前 5 种语言、共 **493** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 70,108 | 10,826 | 10,515 | 436 |
+| Json | 6,554 | 0 | 0 | 1 |
+| Svg | 4,609 | 982 | 843 | 52 |
+| Yaml | 797 | 4 | 12 | 3 |
+| Sh | 185 | 12 | 17 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/boolean-maybe/tiki>
@@ -23,18 +35,6 @@ x install tiki
 - **最新版本**: `v0.6.1` (2026-08-06)
 - **最近提交**: 2026-08-06
 - **Release 含资产**: 7 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [checksums.txt](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/checksums.txt) | 576 B | `other` |
-| [tiki_0.6.1_darwin_amd64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_darwin_amd64.tar.gz) | 10.9 MiB | `native/darwin/x64` |
-| [tiki_0.6.1_darwin_arm64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_darwin_arm64.tar.gz) | 10.2 MiB | `native/darwin/arm64` |
-| [tiki_0.6.1_linux_amd64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_linux_amd64.tar.gz) | 10.7 MiB | `native/linux/x64` |
-| [tiki_0.6.1_linux_arm64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_linux_arm64.tar.gz) | 9.8 MiB | `native/linux/arm64` |
-| [tiki_0.6.1_windows_amd64.zip](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_amd64.zip) | 11.0 MiB | `native/win/x64` |
-| [tiki_0.6.1_windows_arm64.zip](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_arm64.zip) | 9.9 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -49,20 +49,27 @@ x install tiki
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 1 | 2 | 0 | 1 | 0 | 7 |
 | 90d | 2026-06-12 | 2 | 6 | 0 | 1 | 0 | 26 |
+| last180d | 2026-03-14 | 13 | 96 | 1 | 64 | 7 | 336 |
 | 360d | 2025-09-15 | 28 | 109 | 1 | 77 | 9 | 421 |
+| last720d | 2024-09-20 | 28 | 109 | 1 | 77 | 9 | 530 |
 
-## 代码规模
+## Release 资产
 
-合计: **82,402** 行代码（覆盖前 5 种语言、共 **493** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/checksums.txt) | 576 B | `other` |
+| [tiki_0.6.1_darwin_amd64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_darwin_amd64.tar.gz) | 10.9 MiB | `native/darwin/x64` |
+| [tiki_0.6.1_darwin_arm64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_darwin_arm64.tar.gz) | 10.2 MiB | `native/darwin/arm64` |
+| [tiki_0.6.1_linux_amd64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_linux_amd64.tar.gz) | 10.7 MiB | `native/linux/x64` |
+| [tiki_0.6.1_linux_arm64.tar.gz](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_linux_arm64.tar.gz) | 9.8 MiB | `native/linux/arm64` |
+| [tiki_0.6.1_windows_amd64.zip](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_amd64.zip) | 11.0 MiB | `native/win/x64` |
+| [tiki_0.6.1_windows_arm64.zip](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_arm64.zip) | 9.9 MiB | `native/win/arm64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 70,108 | 10,826 | 10,515 | 436 |
-| Json | 6,554 | 0 | 0 | 1 |
-| Svg | 4,609 | 982 | 843 | 52 |
-| Yaml | 797 | 4 | 12 | 3 |
-| Sh | 185 | 12 | 17 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/tiki) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -73,4 +80,4 @@ tiki 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:54:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:45:23Z._
