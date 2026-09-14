@@ -48,12 +48,12 @@ Total: **82,402** lines of code across **493** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 1 | 1 | 0 | 1 | 0 | 3 |
-| 90d | 2026-06-15 | 2 | 6 | 0 | 1 | 0 | 23 |
-| last180d | 2026-03-17 | 12 | 96 | 1 | 59 | 6 | 307 |
-| 360d | 2025-09-18 | 28 | 109 | 1 | 77 | 9 | 421 |
-| last720d | 2024-09-23 | 28 | 109 | 1 | 77 | 9 | 530 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 1 | 1 | 0 | 1 | 0 | 0 |
+| 90d | 2026-06-16 | 2 | 6 | 0 | 1 | 0 | 0 |
+| last180d | 2026-03-18 | 12 | 95 | 1 | 59 | 6 | 0 |
+| 360d | 2025-09-19 | 28 | 109 | 1 | 77 | 9 | 0 |
+| last720d | 2024-09-24 | 28 | 109 | 1 | 77 | 9 | 530 |
 
 ## Release assets
 
@@ -67,10 +67,6 @@ Total: **82,402** lines of code across **493** files in the top 5 languages.
 | [tiki_0.6.1_windows_amd64.zip](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_amd64.zip) | 11.0 MiB | `native/win/x64` |
 | [tiki_0.6.1_windows_arm64.zip](https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_arm64.zip) | 9.9 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/tiki). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for tiki lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tiki` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -80,4 +76,4 @@ Install metadata for tiki lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:10:51Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:14:18Z._
