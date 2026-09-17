@@ -48,12 +48,12 @@ Total: **82,402** lines of code across **493** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 1 | 1 | 0 | 1 | 0 | 3 |
-| 90d | 2026-06-18 | 2 | 6 | 0 | 1 | 0 | 23 |
-| last180d | 2026-03-20 | 12 | 95 | 1 | 59 | 6 | 307 |
-| 360d | 2025-09-21 | 28 | 109 | 1 | 77 | 9 | 421 |
-| last720d | 2024-09-26 | 28 | 109 | 1 | 77 | 9 | 530 |
+| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 1 | 1 | 0 | 1 | 0 | 3 |
+| 90d | 2026-06-19 | 2 | 6 | 0 | 1 | 0 | 23 |
+| last180d | 2026-03-21 | 12 | 95 | 1 | 59 | 6 | 307 |
+| 360d | 2025-09-22 | 28 | 109 | 1 | 77 | 9 | 421 |
+| last720d | 2024-09-27 | 28 | 109 | 1 | 77 | 9 | 530 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for tiki lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:20:33Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:13:04Z._
