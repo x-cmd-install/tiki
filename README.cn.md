@@ -4,7 +4,7 @@
 
 Terminal Markdown-based shapeless workflow builder
 
-[![x-cmd/install — tiki Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tiki.svg?lang=zh)](https://x-cmd.com/install/tiki)
+[![x-cmd/install — tiki Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tiki.svg?lang=zh)](https://x-cmd.com/install/tiki)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install tiki
 
 ## 流行度
 
-- **Star**: 211 · **Fork**: 9 · **开放 issue**: 86 · **贡献者**: 2
+- **Star**: 211 · **Fork**: 10 · **开放 issue**: 86 · **贡献者**: 2
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install tiki
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 1 | 1 | 0 | 1 | 0 | 0 |
-| 90d | 2026-06-24 | 2 | 6 | 0 | 1 | 0 | 19 |
-| last180d | 2026-03-26 | 11 | 95 | 1 | 57 | 6 | 297 |
-| 360d | 2025-09-27 | 28 | 109 | 1 | 77 | 9 | 421 |
-| last720d | 2024-10-02 | 28 | 109 | 1 | 77 | 9 | 530 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 1 | 1 | 0 | 1 | 0 | 0 |
+| 90d | 2026-06-25 | 2 | 6 | 0 | 1 | 0 | 19 |
+| last180d | 2026-03-27 | 10 | 95 | 1 | 57 | 6 | 297 |
+| 360d | 2025-09-28 | 28 | 109 | 1 | 77 | 9 | 421 |
+| last720d | 2024-10-03 | 28 | 109 | 1 | 77 | 9 | 530 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ tiki 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:15:19Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:25:12Z._
