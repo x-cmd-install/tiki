@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 576,
       "digest": "sha256:d8bb3095ebe4785ee37aa74721ac8f461d07f7235338f5c32721afb76d37f203",
-      "download_count": 60,
+      "download_count": 62,
       "created_at": "2026-08-06T02:46:30Z",
       "updated_at": "2026-08-06T02:46:30Z",
       "browser_download_url": "https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11378612,
       "digest": "sha256:678f17b5a45dcd5dff0b770182dfb574fcb8a75aa5494dd0764eef14631e1a7c",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-06T02:46:29Z",
       "updated_at": "2026-08-06T02:46:30Z",
       "browser_download_url": "https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10694515,
       "digest": "sha256:14122f90e27bb3bc97753dfe4aeeae2fc97d0bda9e391085ce86d2772a2e3603",
-      "download_count": 88,
+      "download_count": 89,
       "created_at": "2026-08-06T02:46:30Z",
       "updated_at": "2026-08-06T02:46:31Z",
       "browser_download_url": "https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11233823,
       "digest": "sha256:60eba0dc7a60feb73961321cde1c39608597dea74ed24edf3b8ced0006c4569a",
-      "download_count": 205,
+      "download_count": 217,
       "created_at": "2026-08-06T02:46:29Z",
       "updated_at": "2026-08-06T02:46:30Z",
       "browser_download_url": "https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10315958,
       "digest": "sha256:5424732775d113df0a3720cba2eebd5f3301589ca0c932bb4ee398a76ebb516b",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-06T02:46:30Z",
       "updated_at": "2026-08-06T02:46:31Z",
       "browser_download_url": "https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11505228,
       "digest": "sha256:e5619231433518fe4afb28c7c2b6922e98867a78e9c6b5d23b1cbeaa6fc370fa",
-      "download_count": 38,
+      "download_count": 39,
       "created_at": "2026-08-06T02:46:29Z",
       "updated_at": "2026-08-06T02:46:30Z",
       "browser_download_url": "https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10422020,
       "digest": "sha256:2d17f0dddb11411178812bbba60a43ec615810a9839c41c7612ff5ddb737153b",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-06T02:46:29Z",
       "updated_at": "2026-08-06T02:46:30Z",
       "browser_download_url": "https://github.com/boolean-maybe/tiki/releases/download/v0.6.1/tiki_0.6.1_windows_arm64.zip"
